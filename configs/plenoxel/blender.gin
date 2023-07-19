@@ -18,7 +18,6 @@ run.max_steps = 153600
 
 ### Plenoxel Specific
 
-LitData.batch_sampler = "all_images"
 LitData.epoch_size = 38400
 LitData.batch_size = 5000
 LitData.chunk = 8192
